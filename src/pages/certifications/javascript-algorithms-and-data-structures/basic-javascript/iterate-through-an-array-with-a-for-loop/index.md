@@ -1,7 +1,7 @@
 ---
 title: Iterate Through an Array with a For Loop
 ---
-## Iterate Through an Array with a For Loop
+## Iterate Through an Array with a For Loop1
 
 This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
