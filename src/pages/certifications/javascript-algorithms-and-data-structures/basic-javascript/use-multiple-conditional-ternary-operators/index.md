@@ -1,7 +1,7 @@
 ---
 title: Use Multiple Conditional (Ternary) Operators
 ---
-## Use Multiple Conditional (Ternary) Operators
+## Use Multiple Conditional (Ternary) Operators1
 
 This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/certifications/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
 
